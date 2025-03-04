@@ -1,1 +1,1 @@
-welcome shaik
+print ("welcome shaik")
