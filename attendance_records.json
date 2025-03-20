@@ -1,0 +1,35 @@
+{
+  "students": {
+    "S001": {
+      "name": "John Smith",
+      "registration_date": "2025-03-20"
+    },
+    "S002": {
+      "name": "Emma Johnson",
+      "registration_date": "2025-03-20"
+    },
+    "S003": {
+      "name": "Michael Brown",
+      "registration_date": "2025-03-20"
+    }
+  },
+  "daily_records": {
+    "2025-03-20": {
+      "S001": {
+        "status": "present",
+        "timestamp": "2025-03-20 16:08:12",
+        "notes": ""
+      },
+      "S002": {
+        "status": "absent",
+        "timestamp": "2025-03-20 16:08:12",
+        "notes": "Called in sick"
+      },
+      "S003": {
+        "status": "late",
+        "timestamp": "2025-03-20 16:08:12",
+        "notes": "Bus delay"
+      }
+    }
+  }
+}
