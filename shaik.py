@@ -21,9 +21,5 @@ except s3_client.exceptions.BucketAlreadyOwnedByYou:
 except s3_client.exceptions.BucketAlreadyExists:
     print(f"Bucket name '{bucket_name}' is already taken.")
 except Exception as e:
-    print(f"Error: {e}")
-
-    #changes need update 
-    # if i have changes 
-    # i have to make the changes 
-    # i need to the more specif version needs to be added for the complete 
+    print(f"Error: {e}"
+          
