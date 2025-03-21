@@ -1,0 +1,12 @@
+{
+  "status_options": [
+    "present",
+    "absent",
+    "late",
+    "excused"
+  ],
+  "default_status": "absent",
+  "auto_backup": true,
+  "backup_frequency_days": 7,
+  "last_backup": null
+}

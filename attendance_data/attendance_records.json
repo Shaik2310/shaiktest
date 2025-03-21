@@ -1,0 +1,19 @@
+{
+  "2025-03-21": {
+    "S001": {
+      "status": "present",
+      "timestamp": "2025-03-21 10:09:49",
+      "notes": ""
+    },
+    "S002": {
+      "status": "absent",
+      "timestamp": "2025-03-21 10:09:49",
+      "notes": "Called in sick"
+    },
+    "S003": {
+      "status": "late",
+      "timestamp": "2025-03-21 10:09:49",
+      "notes": "Bus delay"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "2025-03-21": {
+    "date": "2025-03-21",
+    "generated_at": "2025-03-21 10:09:49",
+    "total_students": 3,
+    "recorded_students": 3,
+    "missing_records": 0,
+    "stats": {
+      "present": 1,
+      "absent": 1,
+      "late": 1,
+      "excused": 0
+    },
+    "attendance_rate": 33.33
+  }
+}

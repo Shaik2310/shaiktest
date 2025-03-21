@@ -1,0 +1,52 @@
+{
+  "period": "2025-03",
+  "generated_at": "2025-03-21 10:09:49",
+  "students": {
+    "S001": {
+      "name": "John Smith",
+      "registration_date": "2025-03-21",
+      "status": "active",
+      "grade": "10A",
+      "contact": "john.smith@email.com",
+      "parent_name": "David Smith",
+      "parent_contact": "david.smith@email.com"
+    },
+    "S002": {
+      "name": "Emma Johnson",
+      "registration_date": "2025-03-21",
+      "status": "active",
+      "grade": "10A",
+      "contact": "emma.j@email.com",
+      "parent_name": "Laura Johnson",
+      "parent_contact": "laura.j@email.com"
+    },
+    "S003": {
+      "name": "Michael Brown",
+      "registration_date": "2025-03-21",
+      "status": "active",
+      "grade": "10B",
+      "contact": "michael.b@email.com",
+      "parent_name": "Robert Brown",
+      "parent_contact": "robert.b@email.com"
+    }
+  },
+  "attendance": {
+    "2025-03-21": {
+      "S001": {
+        "status": "present",
+        "timestamp": "2025-03-21 10:09:49",
+        "notes": ""
+      },
+      "S002": {
+        "status": "absent",
+        "timestamp": "2025-03-21 10:09:49",
+        "notes": "Called in sick"
+      },
+      "S003": {
+        "status": "late",
+        "timestamp": "2025-03-21 10:09:49",
+        "notes": "Bus delay"
+      }
+    }
+  }
+}
